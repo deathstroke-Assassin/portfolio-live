@@ -4,7 +4,7 @@ A responsive, static portfolio built with semantic HTML, CSS, and vanilla JavaSc
 
 ## Preview
 
-Open `index.html` in a browser, or serve this folder with any static file server. Google Fonts and Font Awesome are loaded from their CDNs; the page still has a system-font and text/icon fallback if those services are unavailable.
+https://deathstroke-assassin.github.io/portfolio-live/
 
 ## Personal assets to add
 

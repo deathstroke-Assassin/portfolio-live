@@ -1,0 +1,1 @@
+`profile-strong.jpg` is used in the hero and `about-lifestyle-strong.jpg` is used in the About section. Replace either file or edit its path in `index.html`; missing images fall back to initials. Add project screenshots under `projects/`.
